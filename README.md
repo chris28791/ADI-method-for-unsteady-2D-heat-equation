@@ -1,4 +1,4 @@
-# MAE290B_WINITER23_Project
+# ADI method for unsteady 2D heat equation with internal heat source
 
 This code was the final project of the class MAE290B:Numerical Methods for Differential Equations, where it was taken at UCSD in winter 2023.
 
